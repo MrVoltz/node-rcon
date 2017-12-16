@@ -2,8 +2,8 @@
   "name": "rcon",
   "description": "rcon protocol wrapper for node",
   "keywords": ["rcon", "protocol"],
-  "version": "0.0.1", 
-  "main":"node-rcon.js", 
+  "version": "0.0.2",
+  "main":"node-rcon.js",
   "engines": {
       "node": "~v0.6.0"
   }
